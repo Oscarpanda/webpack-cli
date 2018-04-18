@@ -1,0 +1,380 @@
+{"frames": [
+
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_00.png",
+	"frame": {"x":1251,"y":1323,"w":154,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":159,"w":154,"h":424},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_01.png",
+	"frame": {"x":1212,"y":1,"w":155,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":159,"w":155,"h":424},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_02.png",
+	"frame": {"x":1118,"y":427,"w":175,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":159,"w":175,"h":424},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_03.png",
+	"frame": {"x":1008,"y":1,"w":202,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":159,"w":202,"h":424},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_04.png",
+	"frame": {"x":1037,"y":1489,"w":212,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":159,"w":212,"h":424},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_05.png",
+	"frame": {"x":906,"y":471,"w":210,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":160,"w":210,"h":424},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_06.png",
+	"frame": {"x":1290,"y":853,"w":202,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":160,"w":202,"h":423},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_07.png",
+	"frame": {"x":1295,"y":427,"w":195,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":160,"w":195,"h":423},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_08.png",
+	"frame": {"x":1095,"y":897,"w":193,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":160,"w":193,"h":424},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_09.png",
+	"frame": {"x":1369,"y":1,"w":191,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":168,"w":191,"h":417},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_10.png",
+	"frame": {"x":822,"y":1643,"w":213,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":181,"w":213,"h":404},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_11.png",
+	"frame": {"x":1494,"y":819,"w":229,"h":390},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":196,"w":229,"h":390},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_12.png",
+	"frame": {"x":1725,"y":789,"w":241,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":211,"w":241,"h":375},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_13.png",
+	"frame": {"x":1940,"y":1,"w":248,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":224,"w":248,"h":361},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_14.png",
+	"frame": {"x":2057,"y":364,"w":251,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":233,"w":251,"h":351},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_15.png",
+	"frame": {"x":2190,"y":1,"w":253,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":236,"w":253,"h":348},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_16.png",
+	"frame": {"x":1828,"y":390,"w":227,"h":372},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":214,"w":227,"h":372},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_17.png",
+	"frame": {"x":1738,"y":1,"w":200,"h":387},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":199,"w":200,"h":387},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_18.png",
+	"frame": {"x":1562,"y":1,"w":174,"h":395},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":191,"w":174,"h":395},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_19.png",
+	"frame": {"x":1492,"y":420,"w":154,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":189,"w":154,"h":397},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_20.png",
+	"frame": {"x":1407,"y":1278,"w":160,"h":394},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":191,"w":160,"h":394},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_21.png",
+	"frame": {"x":1648,"y":398,"w":178,"h":389},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":196,"w":178,"h":389},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_22.png",
+	"frame": {"x":1569,"y":1211,"w":195,"h":381},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":203,"w":195,"h":381},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_23.png",
+	"frame": {"x":1407,"y":1674,"w":207,"h":373},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":211,"w":207,"h":373},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_24.png",
+	"frame": {"x":372,"y":1680,"w":216,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":218,"w":216,"h":366},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_25.png",
+	"frame": {"x":1616,"y":1594,"w":223,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":224,"w":223,"h":361},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_26.png",
+	"frame": {"x":1766,"y":1166,"w":237,"h":358},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":227,"w":237,"h":358},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_27.png",
+	"frame": {"x":1968,"y":764,"w":245,"h":356},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":229,"w":245,"h":356},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_28.png",
+	"frame": {"x":590,"y":1665,"w":230,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":203,"w":230,"h":382},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_29.png",
+	"frame": {"x":877,"y":1057,"w":216,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":155,"w":216,"h":430},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_30.png",
+	"frame": {"x":804,"y":1,"w":202,"h":468},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":116,"w":202,"h":468},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_31.png",
+	"frame": {"x":713,"y":554,"w":191,"h":501},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":83,"w":191,"h":501},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_32.png",
+	"frame": {"x":684,"y":1112,"w":191,"h":529},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":55,"w":191,"h":529},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_33.png",
+	"frame": {"x":518,"y":558,"w":193,"h":552},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":32,"w":193,"h":552},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_34.png",
+	"frame": {"x":157,"y":1168,"w":213,"h":569},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":14,"w":213,"h":569},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_35.png",
+	"frame": {"x":1,"y":586,"w":203,"h":580},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":3,"w":203,"h":580},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_36.png",
+	"frame": {"x":1,"y":1,"w":176,"h":583},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":0,"w":176,"h":583},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_37.png",
+	"frame": {"x":179,"y":1,"w":154,"h":577},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":6,"w":154,"h":577},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_38.png",
+	"frame": {"x":1,"y":1168,"w":154,"h":571},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":12,"w":154,"h":571},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_39.png",
+	"frame": {"x":206,"y":580,"w":154,"h":566},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":17,"w":154,"h":566},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_40.png",
+	"frame": {"x":335,"y":1,"w":155,"h":562},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":21,"w":155,"h":562},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_41.png",
+	"frame": {"x":362,"y":565,"w":154,"h":558},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":25,"w":154,"h":558},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_42.png",
+	"frame": {"x":492,"y":1,"w":154,"h":555},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":28,"w":154,"h":555},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_43.png",
+	"frame": {"x":372,"y":1125,"w":154,"h":553},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":30,"w":154,"h":553},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_44.png",
+	"frame": {"x":648,"y":1,"w":154,"h":551},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":32,"w":154,"h":551},
+	"sourceSize": {"w":366,"h":588}
+},
+{
+	"filename": "Armature_讲课动作2全_站立＋赞_45.png",
+	"frame": {"x":528,"y":1112,"w":154,"h":551},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":32,"w":154,"h":551},
+	"sourceSize": {"w":366,"h":588}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "praise.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac6e76bd5d8eae2e1be898221642a890:17b808d1c0e5e50ad9411832ca123cbe:f12cb56045efe3ac0a32b16f7e56ad21$"
+}
+}

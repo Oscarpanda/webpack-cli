@@ -23,25 +23,28 @@ function preload() {
 }
 
 
+function ani (Anim, callback) {
+    Anim.onComplete.add(callback);
+}
+function voice_fn(key, callback) {
+    let voice = game.add.audio(key);
+    voice.onStop.add(callback)
+    console.log("type", typeof voice.onStop.add)
+    voice.play();
+}
+function check_1v1 () {
+
+}
 function create() {
     let obj = {}
     let answerResult = new AnswerResult(this.game, 290, 148);
     game.add.existing(answerResult);
     answerResult.right();
-    function ani (Anim, callback) {
-        Anim.onComplete.add(callback);
-    }
-    function voice_fn(key, callback) {
-        let voice = game.add.audio(key);
-        voice.onStop.add(callback)
-        console.log("type", typeof voice.onStop.add)
-        voice.play();
-    }
     const boundSomeFunction2 = Rx.Observable.bindCallback(voice_fn);
-    boundSomeFunction2("voice").mergeMap((e) => {
+    boundSomeFunction2("voice").concatMap((e) => {
         console.log("map", e)
         return boundSomeFunction2('rocket');
-    }).mergeMap((e)=>{
+    }).concatMap((e)=>{
         console.log("map1", e)
         return boundSomeFunction2('rocket')
     })

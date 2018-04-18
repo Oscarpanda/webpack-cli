@@ -1,0 +1,220 @@
+{"frames": [
+
+{
+	"filename": "Armature_表示赞扬动作ok_00.png",
+	"frame": {"x":1,"y":1,"w":189,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":31,"w":189,"h":424},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_01.png",
+	"frame": {"x":1,"y":1276,"w":190,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":190,"h":420},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_02.png",
+	"frame": {"x":402,"y":420,"w":187,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":39,"w":187,"h":417},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_03.png",
+	"frame": {"x":591,"y":419,"w":183,"h":414},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":42,"w":183,"h":414},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_04.png",
+	"frame": {"x":611,"y":1255,"w":180,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":44,"w":180,"h":412},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_05.png",
+	"frame": {"x":744,"y":835,"w":179,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":44,"w":179,"h":412},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_06.png",
+	"frame": {"x":985,"y":1236,"w":182,"h":396},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":35,"w":182,"h":396},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_07.png",
+	"frame": {"x":980,"y":1,"w":195,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":195,"h":404},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_08.png",
+	"frame": {"x":404,"y":1265,"w":205,"h":415},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":24,"w":205,"h":415},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_09.png",
+	"frame": {"x":192,"y":1,"w":209,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":21,"w":209,"h":417},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_10.png",
+	"frame": {"x":188,"y":427,"w":212,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":20,"w":212,"h":417},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_11.png",
+	"frame": {"x":193,"y":1273,"w":209,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":26,"w":209,"h":417},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_12.png",
+	"frame": {"x":403,"y":1,"w":205,"h":416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":32,"w":205,"h":416},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_13.png",
+	"frame": {"x":346,"y":846,"w":201,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":37,"w":201,"h":417},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_14.png",
+	"frame": {"x":549,"y":839,"w":193,"h":414},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":42,"w":193,"h":414},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_15.png",
+	"frame": {"x":776,"y":417,"w":192,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":46,"w":192,"h":410},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_16.png",
+	"frame": {"x":786,"y":1,"w":192,"h":408},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":49,"w":192,"h":408},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_17.png",
+	"frame": {"x":793,"y":1249,"w":190,"h":406},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":50,"w":190,"h":406},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_18.png",
+	"frame": {"x":925,"y":829,"w":188,"h":405},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":51,"w":188,"h":405},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_19.png",
+	"frame": {"x":793,"y":1657,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":30,"w":183,"h":384},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_20.png",
+	"frame": {"x":970,"y":411,"w":177,"h":405},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":18,"w":177,"h":405},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_21.png",
+	"frame": {"x":610,"y":1,"w":174,"h":414},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":13,"w":174,"h":414},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_22.png",
+	"frame": {"x":178,"y":852,"w":166,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":20,"w":166,"h":419},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_23.png",
+	"frame": {"x":1,"y":852,"w":175,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":25,"w":175,"h":422},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_24.png",
+	"frame": {"x":1,"y":427,"w":185,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":30,"w":185,"h":423},
+	"sourceSize": {"w":247,"h":458}
+},
+{
+	"filename": "Armature_表示赞扬动作ok_25.png",
+	"frame": {"x":1,"y":1,"w":189,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":31,"w":189,"h":424},
+	"sourceSize": {"w":247,"h":458}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "runPraiseAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:12d29d6a0891d19853744783babe9f48:924703787cdef3cad579a749f6aa272f:e6a351859c1a3534b46c2bfecda046fa$"
+}
+}

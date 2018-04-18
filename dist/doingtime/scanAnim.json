@@ -1,0 +1,276 @@
+{"frames": [
+
+{
+	"filename": "合成 1_00000.png",
+	"frame": {"x":7207,"y":7078,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00001.png",
+	"frame": {"x":3605,"y":7078,"w":1799,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":1799,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00002.png",
+	"frame": {"x":1,"y":1,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00003.png",
+	"frame": {"x":1803,"y":1,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00004.png",
+	"frame": {"x":3605,"y":1,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00005.png",
+	"frame": {"x":5407,"y":1,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00006.png",
+	"frame": {"x":1,"y":1012,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00007.png",
+	"frame": {"x":1803,"y":1012,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00008.png",
+	"frame": {"x":3605,"y":1012,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00009.png",
+	"frame": {"x":5407,"y":1012,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00010.png",
+	"frame": {"x":1,"y":2023,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00011.png",
+	"frame": {"x":1803,"y":2023,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00012.png",
+	"frame": {"x":3605,"y":2023,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00013.png",
+	"frame": {"x":5407,"y":2023,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00014.png",
+	"frame": {"x":1,"y":3034,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00015.png",
+	"frame": {"x":1,"y":4045,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00016.png",
+	"frame": {"x":1,"y":5056,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00017.png",
+	"frame": {"x":1,"y":6067,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00018.png",
+	"frame": {"x":1,"y":7078,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00019.png",
+	"frame": {"x":1803,"y":3034,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00020.png",
+	"frame": {"x":3605,"y":3034,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00021.png",
+	"frame": {"x":5407,"y":3034,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00022.png",
+	"frame": {"x":1803,"y":4045,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00023.png",
+	"frame": {"x":3605,"y":4045,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00024.png",
+	"frame": {"x":5407,"y":4045,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00025.png",
+	"frame": {"x":1803,"y":5056,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00026.png",
+	"frame": {"x":1803,"y":6067,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00027.png",
+	"frame": {"x":1803,"y":7078,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00028.png",
+	"frame": {"x":3605,"y":5056,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00029.png",
+	"frame": {"x":5407,"y":5056,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00030.png",
+	"frame": {"x":3605,"y":6067,"w":1800,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00031.png",
+	"frame": {"x":5406,"y":7078,"w":1799,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":1799,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+},
+{
+	"filename": "合成 1_00032.png",
+	"frame": {"x":5407,"y":6067,"w":1799,"h":1009},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":1799,"h":1009},
+	"sourceSize": {"w":1800,"h":1013}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "scanAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":7211,"h":8088},
+	"scale": "0.9375",
+	"smartupdate": "$TexturePacker:SmartUpdate:c023827667cd42ff4d9198efae1df7b3:343cfb115f332c36d7e0b39cec745cb0:25dfe2da29e3f074d12ef05449816704$"
+}
+}

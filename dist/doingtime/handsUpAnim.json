@@ -1,0 +1,636 @@
+{"frames": [
+
+{
+	"filename": "Armature_举手动作_00.png",
+	"frame": {"x":1,"y":1,"w":174,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":174,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_01.png",
+	"frame": {"x":1,"y":427,"w":173,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":173,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_02.png",
+	"frame": {"x":177,"y":1,"w":172,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":172,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_03.png",
+	"frame": {"x":1,"y":853,"w":173,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":173,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_04.png",
+	"frame": {"x":176,"y":853,"w":172,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":172,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_05.png",
+	"frame": {"x":350,"y":1279,"w":171,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":171,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_06.png",
+	"frame": {"x":523,"y":1279,"w":171,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":171,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_07.png",
+	"frame": {"x":351,"y":1,"w":170,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":4,"w":170,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_08.png",
+	"frame": {"x":351,"y":427,"w":170,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":170,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_09.png",
+	"frame": {"x":695,"y":427,"w":169,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":169,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_10.png",
+	"frame": {"x":696,"y":853,"w":169,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":169,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_11.png",
+	"frame": {"x":867,"y":1,"w":168,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":168,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_12.png",
+	"frame": {"x":2363,"y":1,"w":168,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":5,"w":168,"h":423},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_13.png",
+	"frame": {"x":2533,"y":1,"w":167,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":5,"w":167,"h":423},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_14.png",
+	"frame": {"x":2702,"y":1,"w":166,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":5,"w":166,"h":423},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_15.png",
+	"frame": {"x":2870,"y":1,"w":166,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":5,"w":166,"h":423},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_16.png",
+	"frame": {"x":1036,"y":853,"w":166,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":4,"w":166,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_17.png",
+	"frame": {"x":1204,"y":853,"w":165,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":4,"w":165,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_18.png",
+	"frame": {"x":1204,"y":1279,"w":165,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":4,"w":165,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_19.png",
+	"frame": {"x":1371,"y":853,"w":164,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":4,"w":164,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_20.png",
+	"frame": {"x":1371,"y":1279,"w":164,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":4,"w":164,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_21.png",
+	"frame": {"x":1372,"y":1,"w":164,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":4,"w":164,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_22.png",
+	"frame": {"x":1372,"y":427,"w":164,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":4,"w":164,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_23.png",
+	"frame": {"x":1537,"y":853,"w":164,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":4,"w":164,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_24.png",
+	"frame": {"x":1703,"y":853,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_25.png",
+	"frame": {"x":1703,"y":1279,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_26.png",
+	"frame": {"x":1704,"y":1,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_27.png",
+	"frame": {"x":1704,"y":427,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_28.png",
+	"frame": {"x":1868,"y":853,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_29.png",
+	"frame": {"x":1868,"y":1279,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_30.png",
+	"frame": {"x":2199,"y":1,"w":162,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":162,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_31.png",
+	"frame": {"x":2199,"y":427,"w":162,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":162,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_32.png",
+	"frame": {"x":2363,"y":426,"w":162,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":162,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_33.png",
+	"frame": {"x":2363,"y":852,"w":162,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":162,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_34.png",
+	"frame": {"x":2363,"y":1278,"w":162,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":162,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_35.png",
+	"frame": {"x":2691,"y":426,"w":161,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":161,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_36.png",
+	"frame": {"x":2691,"y":852,"w":161,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":161,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_37.png",
+	"frame": {"x":2691,"y":1278,"w":161,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":161,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_38.png",
+	"frame": {"x":3536,"y":1,"w":161,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":161,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_39.png",
+	"frame": {"x":3017,"y":426,"w":160,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":4,"w":160,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_40.png",
+	"frame": {"x":3699,"y":1,"w":161,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":161,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_41.png",
+	"frame": {"x":3862,"y":1,"w":161,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":161,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_42.png",
+	"frame": {"x":2854,"y":426,"w":161,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":161,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_43.png",
+	"frame": {"x":2527,"y":426,"w":162,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":162,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_44.png",
+	"frame": {"x":2527,"y":852,"w":162,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":162,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_45.png",
+	"frame": {"x":2527,"y":1278,"w":162,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":162,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_46.png",
+	"frame": {"x":1869,"y":1,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_47.png",
+	"frame": {"x":1869,"y":427,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_48.png",
+	"frame": {"x":2033,"y":853,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_49.png",
+	"frame": {"x":2033,"y":1279,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_50.png",
+	"frame": {"x":2034,"y":1,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_51.png",
+	"frame": {"x":2034,"y":427,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_52.png",
+	"frame": {"x":3038,"y":1,"w":164,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":5,"w":164,"h":423},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_53.png",
+	"frame": {"x":3204,"y":1,"w":164,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":5,"w":164,"h":423},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_54.png",
+	"frame": {"x":3370,"y":1,"w":164,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":5,"w":164,"h":423},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_55.png",
+	"frame": {"x":2198,"y":853,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_56.png",
+	"frame": {"x":1537,"y":1279,"w":164,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":4,"w":164,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_57.png",
+	"frame": {"x":2198,"y":1279,"w":163,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":4,"w":163,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_58.png",
+	"frame": {"x":1538,"y":1,"w":164,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":4,"w":164,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_59.png",
+	"frame": {"x":1538,"y":427,"w":164,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":4,"w":164,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_60.png",
+	"frame": {"x":1205,"y":1,"w":165,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":4,"w":165,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_61.png",
+	"frame": {"x":1205,"y":427,"w":165,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":165,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_62.png",
+	"frame": {"x":1037,"y":1,"w":166,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":166,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_63.png",
+	"frame": {"x":1037,"y":427,"w":166,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":166,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_64.png",
+	"frame": {"x":866,"y":1279,"w":167,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":167,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_65.png",
+	"frame": {"x":867,"y":853,"w":167,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":167,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_66.png",
+	"frame": {"x":1035,"y":1279,"w":167,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":4,"w":167,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_67.png",
+	"frame": {"x":696,"y":1279,"w":168,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":168,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_68.png",
+	"frame": {"x":866,"y":427,"w":169,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":169,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_69.png",
+	"frame": {"x":523,"y":1,"w":170,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":170,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_70.png",
+	"frame": {"x":523,"y":427,"w":170,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":170,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_71.png",
+	"frame": {"x":524,"y":853,"w":170,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":170,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_72.png",
+	"frame": {"x":695,"y":1,"w":170,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":170,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_73.png",
+	"frame": {"x":176,"y":1279,"w":172,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":172,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_74.png",
+	"frame": {"x":350,"y":853,"w":172,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":172,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_75.png",
+	"frame": {"x":1,"y":1279,"w":173,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":173,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_76.png",
+	"frame": {"x":176,"y":427,"w":173,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":173,"h":424},
+	"sourceSize": {"w":188,"h":428}
+},
+{
+	"filename": "Armature_举手动作_77.png",
+	"frame": {"x":1,"y":1,"w":174,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":174,"h":424},
+	"sourceSize": {"w":188,"h":428}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "handsUpAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3d00898a203df176255a1a30c529e5cf:74f296b9a68f0ac9cd1198627df14dca:42ea46411b6dea2621c56c9801f36156$"
+}
+}

@@ -1,0 +1,508 @@
+{"frames": [
+
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_00.png",
+	"frame": {"x":786,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_01.png",
+	"frame": {"x":1,"y":1,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_02.png",
+	"frame": {"x":786,"y":425,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_03.png",
+	"frame": {"x":786,"y":849,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_04.png",
+	"frame": {"x":1,"y":425,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_05.png",
+	"frame": {"x":786,"y":1273,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_06.png",
+	"frame": {"x":942,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_07.png",
+	"frame": {"x":1,"y":849,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_08.png",
+	"frame": {"x":942,"y":425,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_09.png",
+	"frame": {"x":942,"y":849,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_10.png",
+	"frame": {"x":1,"y":1273,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_11.png",
+	"frame": {"x":942,"y":1273,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_12.png",
+	"frame": {"x":1098,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_13.png",
+	"frame": {"x":158,"y":1,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_14.png",
+	"frame": {"x":158,"y":425,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_15.png",
+	"frame": {"x":1098,"y":425,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_16.png",
+	"frame": {"x":1098,"y":849,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_17.png",
+	"frame": {"x":1098,"y":1273,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_18.png",
+	"frame": {"x":158,"y":849,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_19.png",
+	"frame": {"x":158,"y":1273,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_20.png",
+	"frame": {"x":1254,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_21.png",
+	"frame": {"x":1254,"y":425,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_22.png",
+	"frame": {"x":1254,"y":849,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_23.png",
+	"frame": {"x":1254,"y":1273,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_24.png",
+	"frame": {"x":1410,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_25.png",
+	"frame": {"x":1410,"y":425,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_26.png",
+	"frame": {"x":2034,"y":425,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_27.png",
+	"frame": {"x":2034,"y":849,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_28.png",
+	"frame": {"x":2034,"y":1273,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_29.png",
+	"frame": {"x":2189,"y":425,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_30.png",
+	"frame": {"x":2190,"y":1,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_31.png",
+	"frame": {"x":2189,"y":849,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_32.png",
+	"frame": {"x":2189,"y":1273,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_33.png",
+	"frame": {"x":2344,"y":425,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_34.png",
+	"frame": {"x":2345,"y":1,"w":153,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_35.png",
+	"frame": {"x":1410,"y":849,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_36.png",
+	"frame": {"x":1410,"y":1273,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_37.png",
+	"frame": {"x":1566,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_38.png",
+	"frame": {"x":1566,"y":425,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_39.png",
+	"frame": {"x":315,"y":1,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_40.png",
+	"frame": {"x":315,"y":425,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_41.png",
+	"frame": {"x":1566,"y":849,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_42.png",
+	"frame": {"x":1566,"y":1273,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_43.png",
+	"frame": {"x":315,"y":849,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_44.png",
+	"frame": {"x":315,"y":1273,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_45.png",
+	"frame": {"x":1722,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_46.png",
+	"frame": {"x":1722,"y":425,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_47.png",
+	"frame": {"x":472,"y":1,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_48.png",
+	"frame": {"x":472,"y":425,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_49.png",
+	"frame": {"x":1722,"y":849,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_50.png",
+	"frame": {"x":1722,"y":1273,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_51.png",
+	"frame": {"x":472,"y":849,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_52.png",
+	"frame": {"x":472,"y":1273,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_53.png",
+	"frame": {"x":1878,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_54.png",
+	"frame": {"x":1878,"y":425,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_55.png",
+	"frame": {"x":629,"y":1,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_56.png",
+	"frame": {"x":629,"y":425,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_57.png",
+	"frame": {"x":1878,"y":849,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_58.png",
+	"frame": {"x":1878,"y":1273,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_59.png",
+	"frame": {"x":629,"y":849,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_60.png",
+	"frame": {"x":629,"y":1273,"w":155,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":155,"h":422},
+	"sourceSize": {"w":160,"h":422}
+},
+{
+	"filename": "Armature_讲课动作2全_3_站立_眨眼_61.png",
+	"frame": {"x":2034,"y":1,"w":154,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":154,"h":422},
+	"sourceSize": {"w":160,"h":422}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "blink.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6623ad1ceeac8df9e29cbfa256597307:26fd6a9607d2226f2b53a941dc78b1eb:67cfac9e17410e508afbcf4e4803bb8d$"
+}
+}
