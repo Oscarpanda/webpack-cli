@@ -32,11 +32,11 @@ class myVue {
                 );
             }
             if (node.hasAttribute("v-model") && (node.tagName === "INPUT" || node.tagName === "TEXTAREA" )) {
+                let attrVal = node.getAttribute("v-model");
+                this.binding[attrVal].directives.push(
+                    new Watcher("input", node, this, node.getAttribute("v-model"), "value")
+                );
                 node.addEventListener("input", (e) => {
-                    let attrVal = node.getAttribute("v-model");
-                    this.binding[attrVal].directives.push(
-                        new Watcher("input", node, this, node.getAttribute("v-model"), "value")
-                    );
                     console.log(e);
                     let fn = () =>{
                         this.data[attrVal] = node.value;
