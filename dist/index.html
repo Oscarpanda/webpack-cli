@@ -1,12 +1,18 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>out</title>
-  </head>
-  <body>
-      <div id="main" style="height: 500px"></div>
+<html lang="en">
+<body>
+<div id="app">
+    <form>
+        <input type="text" v-model="number">
+        <button type="button" v-click="increment">增加</button>
+    </form>
+    <h3 v-bind="number"></h3>
 
-  <script type="text/javascript" src="app.bundle.js"></script>
-  </body>
+</div>
+<!--<script src="./src/index.js">-->
+<script src="./app.bundle.js"></script>
+    <!--<script src="bundle.js">-->
+
+<!--</script>-->
+</body>
 </html>

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <script src="./print.bundle.js"></script>
-</head>
 <body>
+<form>
+    <input type="test" v-model="number">
+    <button type="button" v-click="increment">增加</button>
+</form>
+<h3 v-bind="number"></h3>
 <!--<script src="./src/index.js">-->
 <script src="./app.bundle.js"></script>
     <!--<script src="bundle.js">-->
