@@ -16,20 +16,44 @@ function preload() {
 let graphics
 let graphics1
 function create() {
-    graphics = game.add.graphics(0, 0);
-    graphics1 = game.add.graphics(0, 0);
+    graphics = game.add.graphics(400, 400);
+    let group = this.add.group();
+    // graphics1 = game.add.graphics(0, 0);
 
     graphics.beginFill(0xFF33ff);
-    graphics.drawRoundedRect(20,20,400,400,30);
-    let sprite = game.add.sprite(0,0,"failAnim")
-    graphics1.addChild(sprite);
-    // graphics.addChild(sprite);
-    sprite.mask = graphics
-    setTimeout(()=>{
-        sprite.loadTexture("rightAnim");
-    },3000)
+    graphics.drawRoundedRect(-200,-200,400,400,30);
+    // group.body =  Phaser.Physics.P2.Body
+    console.log(graphics.body)
+    let sprite = game.add.sprite(100,100,"failAnim")
+    sprite.alignIn(graphics, Phaser.CENTER)
+    // group.add(graphics);
+    // group.add(sprite);
+    // let sprite1 = game.add.sprite(0,0,graphics)
+    // sprite.anchor.set(0.5, 0.5)
+    let animTween = this.game.add.tween(graphics.scale);
+    // let animTween1 = this.game.add.tween(graphics);
+    console.log(graphics.y)
+    graphics.scale.set(0, 0);
+    animTween.to({y: 1, x: 1}, 3000, Phaser.Easing.Bounce.Out, true, 0);
+    // animTween1.to({y: graphics.y - 200  , x: graphics.x - 200}, 3000, Phaser.Easing.Bounce.Out, true, 0);
 
-    graphics.endFill();
+    // graphics1.addChild(sprite);
+    // graphics.addChild(sprite);
+    // sprite.mask = graphics
+    // setTimeout(()=>{
+        // animTween.onComplete.add(() => {
+        //     sprite.x = 10;
+        //     sprite.y = 101;
+        // });
+    // },500)
+
+    // animTween.to({y: 200, x: 200}, 1000, Phaser.Easing.Linear.None, true, 0);
+    // animTween.onComplete.add(() => {
+    //     sprite.x = 100;
+    //     sprite.y = 10;
+    // });
+
+    // graphics.endFill();
 }
 function update() {}
 function render () {
