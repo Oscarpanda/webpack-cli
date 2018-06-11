@@ -83,9 +83,9 @@
 
   
   <!--课前秩序维护-->
-  <component type="state" cid ='10500' name="maintainorderbefore" playTime="0:0:06:300" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="27-4"/>
-  <component type="state" cid ='10501' name="maintainorderbefore" playTime="0:0:06:100" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="032-1"/>
-  <component type="state" cid ='10502' name="maintainorderbefore" playTime="0:0:03:200" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="026-1"/>
+  <component type="state" cid ='10500' name="maintainorderbefore" playTime="0:0:06:300" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="27-4,27-3,27-2" nextId="27-5"/>
+  <!-- <component type="state" cid ='10501' name="maintainorderbefore" playTime="0:0:06:100" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="032-1"/> -->
+  <!-- <component type="state" cid ='10502' name="maintainorderbefore" playTime="0:0:03:200" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="026-1"/> -->
 
   <!--课中秩序维护-->
   <component type="state" cid ='10600' name="maintainorderin" playTime="0:1:50" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="0-6"/>

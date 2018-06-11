@@ -8,8 +8,12 @@ class PXMap {
         console.log("3")
         console.log(this.slot.id);
     }
-    add(id, next) {
-        let slot = new Slot(id, next);
+    addVideo(id, next) {
+        let slot = new Slot(id, next,"video");
+        this.PXMap.push(slot);
+    }
+    addComp(id,start,next) {
+        let slot = new Slot(id, next,"comp",start);
         this.PXMap.push(slot);
     }
     insert(slot,after) {// 添加节点
@@ -25,7 +29,7 @@ class PXMap {
         this.PXMap.push(slot);
     }
     show() {
-        console.log(this.PXMap)
+        console.log(this.PXMap, "this.PXmap")
     }
     find(id){
         let finded; 
@@ -47,11 +51,14 @@ pxmap.insert(Slot2, "1");
 console.log(pxmap)
 let xmlreader = new xmlReader();
 xmlreader.readVideo()
-xmlreader.readComponent()
 setTimeout(() =>{
     console.log(xmlreader.ComponentArry, xmlreader.VideoArray)
     xmlreader.VideoArray.forEach((value)=>{
-        pxmap.add(value.id,value.next); 
+        pxmap.addVideo(value.id,value.next); 
+    })
+    xmlreader.readComponent(pxmap)
+    xmlreader.ComponentArry.forEach((value) => {
+
     })
     pxmap.show();
 

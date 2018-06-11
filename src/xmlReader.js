@@ -27,7 +27,7 @@ class xmlReader {
         })
 
     }
-    readComponent() {
+    readComponent(PXmap) {
         $.ajax({
             type: "get",
             url: "./courseComponent_0001.xml",
@@ -40,7 +40,8 @@ class xmlReader {
                     let id = $(value).attr("cid");
                     let componentid= $(value).attr("videoID");
                     let name = $(value).attr("name");
-                    let singleComponentSlot = new compoentSlot(id,componentid,name);
+                    let next= $(value).attr("nextId");
+                    let singleComponentSlot = new compoentSlot(id,componentid,name,next,PXmap);
                     this.ComponentArry.push(singleComponentSlot);
                     
                 })

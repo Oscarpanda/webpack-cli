@@ -9,13 +9,13 @@
 <video key="0-1" filePath="Video_test/海底10分钟倒计时25帧.mp4" next="27-1" select="" startTime="0:0:0" />
 <!--  主视频2接课前秩序维护轻或主视频3 -->
 <video key="27-1" filePath="Video_test/27-1【H】主视频2.mp4" next="27-4" select="maintainorderbefore" startTime="0:0:0"/>
-<video key="27-4" filePath="Video_test/27-4【H】课前秩序维护1-轻切片.mp4" next="27-3,27-5-4" select="" startTime="0:0:0"/>
-<video key="27-3" filePath="Video_test/27-3【H】课前秩序维护1-中切片.mp4" next="27-2,27-5-3" select="" startTime="0:0:0"/>
-<video key="27-2" filePath="Video_test/27-2【H】课前秩序维护1-重切片.mp4" next="27-5-2" select="" startTime="0:0:0"/>
+<video key="27-4" filePath="Video_test/27-4【H】课前秩序维护1-轻切片.mp4" next="27-3,27-5" select="" startTime="0:0:0"/>
+<video key="27-3" filePath="Video_test/27-3【H】课前秩序维护1-中切片.mp4" next="27-2,27-5" select="" startTime="0:0:0"/>
+<video key="27-2" filePath="Video_test/27-2【H】课前秩序维护1-重切片.mp4" next="27-5" select="" startTime="0:0:0"/>
 <!--  主视频3跟小中大切片 -->
-<video key="27-5-2" filePath="Video_test/27-5-2【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/>
-<video key="27-5-3" filePath="Video_test/27-5-3【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/>
-<video key="27-5-4" filePath="Video_test/27-5-4【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/>
+<video key="27-5" filePath="Video_test/27-5-2【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/>
+<!-- <video key="27-5-3" filePath="Video_test/27-5-3【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/> -->
+<!-- <video key="27-5-4" filePath="Video_test/27-5-4【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/> -->
 <video key="27-7" filePath="Video_test/27-7【H】音量1声音小反馈切片.mp4" next="27-9"  select="" startTime="0:0:0" />
 <video key="27-8" filePath="Video_test/27-8【H】音量1声音中反馈切片.mp4" next="27-9"  select="" startTime="0:0:0" /> 
 <video key="27-6" filePath="Video_test/27-6【H】音量1声音大反馈切片.mp4" next="27-9"  select="" startTime="0:0:0" />
