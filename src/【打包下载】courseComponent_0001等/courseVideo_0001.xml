@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videoList>
+<!--  第一节课 -->
+<!--  动画0 -->
+<video key="1" filePath="Video_test/动画0.mp4" next="5" select="" startTime="0:0:0" />
+<!--  主视频1 -->
+<video key="5" filePath="Video_test/5主视频1.mp4" next="0-1" select="" startTime="0:0:0" />
+<!--  倒计时10min -->
+<video key="0-1" filePath="Video_test/海底10分钟倒计时25帧.mp4" next="27-1" select="" startTime="0:0:0" />
+<!--  主视频2接课前秩序维护轻或主视频3 -->
+<video key="27-1" filePath="Video_test/27-1【H】主视频2.mp4" next="27-4" select="maintainorderbefore" startTime="0:0:0"/>
+<video key="27-4" filePath="Video_test/27-4【H】课前秩序维护1-轻切片.mp4" next="27-3,27-5-4" select="" startTime="0:0:0"/>
+<video key="27-3" filePath="Video_test/27-3【H】课前秩序维护1-中切片.mp4" next="27-2,27-5-3" select="" startTime="0:0:0"/>
+<video key="27-2" filePath="Video_test/27-2【H】课前秩序维护1-重切片.mp4" next="27-5-2" select="" startTime="0:0:0"/>
+<!--  主视频3跟小中大切片 -->
+<video key="27-5-2" filePath="Video_test/27-5-2【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/>
+<video key="27-5-3" filePath="Video_test/27-5-3【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/>
+<video key="27-5-4" filePath="Video_test/27-5-4【H】主视频2知识引入+音量红包1.mp4" next="27-7,27-8,27-6" select="音量红包" startTime="0:0:0"/>
+<video key="27-7" filePath="Video_test/27-7【H】音量1声音小反馈切片.mp4" next="27-9"  select="" startTime="0:0:0" />
+<video key="27-8" filePath="Video_test/27-8【H】音量1声音中反馈切片.mp4" next="27-9"  select="" startTime="0:0:0" /> 
+<video key="27-6" filePath="Video_test/27-6【H】音量1声音大反馈切片.mp4" next="27-9"  select="" startTime="0:0:0" />
+<!-- 主视频4+主视频5 -->
+<video key="27-9" filePath="Video_test/27-9【H】主视频3+音量红包2.mp4" next="27-13"  select="" startTime="0:0:0" />
+<!-- 主视频5+主视频6 -->
+<video key="27-13" filePath="Video_test/27-13【H】主视频4.mp4" next="13"  select="" startTime="0:0:0" />
+<!-- 主视频6+主视频7 -->
+<video key="13" filePath="Video_test/13主视频5+花字倒计时2分钟.mp4" next="0-4"  select="" startTime="0:0:0" />
+<!-- 全屏倒计时2min -->
+<video key="0-4" filePath="Video_test/海底2分钟倒计时25帧.mp4" next="23-1"  select="" startTime="0:0:0" />
+<!-- 主视频7+1v1真人点名+主视频8 -->
+<video key="23-1" filePath="Video_test/23-1主视频6+1v1真人选人.mp4" next="23-2"  select="" startTime="0:0:0" />
+<video key="23-2" type="videolist"  suffix=".mp4" filePath="Video_test/oneonone1" next="23-17" select="maintainOrderIn" startTime="0:0:5"/>
+<!--  主视频8+主视频9  -->
+<video key="23-17" filePath="Video_test/23-17 主视频7（老师走出屏幕）.mp4" next="26"  select="" startTime="0:0:0" />
+<video key="26" filePath="Video_test/26主视频8+1分钟花字倒计时.mp4" next="30-1"  select="" startTime="0:0:0" />
+<!--  主视频10+答题器1 -->
+<video key="30-1" filePath="Video_test/30-1主视频9+答题器问答1.mp4" next="30-3,30-2,30-3"  select="datiqi" startTime="0:0:0" />
+<video key="30-2" filePath="Video_test/30-2答题器问答1-答对反馈切片.mp4" next="30-4"  select="" startTime="0:0:0" />
+<video key="30-3" filePath="Video_test/30-3答题器问答1-答错反馈切片.mp4" next="30-4"  select="" startTime="0:0:0" />
+
+<!--  主视频11+主视频12  -->
+<video key="30-4" filePath="Video_test/30-4主视频9题目讲解.mp4" next="31-1"  select="" startTime="0:0:0" />
+<!--  主视频12+答题器2  -->
+<video key="31-1" filePath="Video_test/31-1【H】主视频10+答题器问答2.mp4" next="31-3,31-2,31-3"  select="datiqi" startTime="0:0:0" />
+<video key="31-2" filePath="Video_test/31-2【H】答题器问答2-答对反馈切片.mp4" next="31-4"  select="" startTime="0:0:0" />
+<video key="31-3" filePath="Video_test/31-3【H】答题器问答2-答错反馈切片.mp4" next="31-4"  select="" startTime="0:0:0" />
+<!-- 
+ 主视频13+动画1 -->
+<video key="31-4" filePath="Video_test/31-4【H】主视频11+动画片1.mp4" next="00-2"  select="" startTime="0:0:0" />
+<!--  动画1+主视频14 -->
+<video key="00-2" filePath="Video_test/动画1.mp4" next="34"  select="" startTime="0:0:0" />
+<!--  主视频14+做题投屏1对错反馈 #40-1需融合到40-2&40-3视频中 -->
+<video key="34" filePath="Video_test/34主视频12+5分钟做题投屏1.mp4" next="40-2,40-3"  select="做题投屏" startTime="0:0:0" />
+<video key="40-2" filePath="Video_test/40-2做题投屏1-做错反馈切片.mp4" next="40-4"  select="" startTime="0:0:0" />
+<video key="40-3" filePath="Video_test/40-3做题投屏1-做对反馈切片.mp4" next="40-4"  select="" startTime="0:0:0" />
+<!--  主视频15+主视频16+音量2 -->
+<video key="40-4" filePath="Video_test/40-4主视频13+音量红包3.mp4" next="40-6,40-7,40-5"  select="音量红包" startTime="0:0:0" />
+<video key="40-6" filePath="Video_test/40-6音量3声音小反馈切片.mp4" next="40-8"  select="" startTime="0:0:0" />
+<video key="40-7" filePath="Video_test/40-7音量3声音中反馈切片.mp4" next="40-8"  select="" startTime="0:0:0" />
+<video key="40-5" filePath="Video_test/40-5音量3声音大反馈切片.mp4" next="40-8"  select="" startTime="0:0:0" />
+<!--  主视频17+音量3 -->
+<video key="40-8" filePath="Video_test/40-8主视频14+音量红包4.mp4" next="40-10,40-11,40-9"  select="音量红包" startTime="0:0:0" />
+<video key="40-10" filePath="Video_test/40-10音量4声音小反馈切片.mp4" next="40-12"  select="" startTime="0:0:0" />
+<video key="40-11" filePath="Video_test/40-11音量4声音中反馈切片.mp4" next="40-12"  select="" startTime="0:0:0" />
+<video key="40-9" filePath="Video_test/40-9音量4声音大反馈切片.mp4" next="40-12"  select="" startTime="0:0:0" />
+<!--  主视频18+做题投屏2对错反馈+课中红包 -->
+<video key="40-12" filePath="Video_test/40-12主视频15+5分钟做题投屏2.mp4" next="44,42"  select="做题投屏" startTime="0:0:0" />
+<video key="44" filePath="Video_test/44做题投屏2-做错反馈（详讲）切片+课中红包.mp4" next="48"  select="" startTime="0:0:0" />
+<video key="42" filePath="Video_test/42做题投屏2-做对反馈（略讲）切片+课中红包.m4v" next="48"  select="" startTime="0:0:0" />
+<!--  主视频19+主视频20+1v1扫描问答1+主视频21+1v1扫描问答2+主视频22 -->
+<video key="48" filePath="Video_test/48主视频16+1分钟花字倒计时.mp4" next="51"  select="" startTime="0:0:0" />
+<video key="51" filePath="Video_test/51主视频17+1v1扫描问答1.mp4" next="52-1"  select="" startTime="0:0:0" />
+<video key="52-1" filePath="Video_test/52-1主视频18+1v1扫描问答2.mp4" next="52-2"  select="" startTime="0:0:0" />
+<!--  主视频22+做题投屏3 +做对反馈+倒计时+第二节课第一个切片-->
+<video key="52-2" filePath="Video_test/52-2主视频19+5分钟做题投屏3.mp4" next="55-1,53"  select="做题投屏" startTime="0:0:0" />
+<video key="53" filePath="Video_test/53做题投屏3-做对反馈（略讲）切片+发音量红包.mp4" next="0-2"  select="" startTime="0:0:0" />
+<video key="0-2" filePath="Video_test/海底8分钟倒计时25帧.mp4" next="032-1"  select="" startTime="0:0:0" />
+<!--  做错反馈+音量红包4+反馈-->
+<video key="55-1" filePath="Video_test/55-1做题投屏3-做错反馈（详讲）前部分切片+音量红包5.mp4" next="55-3,55-4,55-2"  select="音量红包" startTime="0:0:0" />
+<video key="55-3" filePath="Video_test/55-3音量5声音小反馈.mp4" next="55-5"  select="" startTime="0:0:0" />
+<video key="55-4" filePath="Video_test/55-4音量5声音中反馈.mp4" next="55-5"  select="" startTime="0:0:0" />
+<video key="55-2" filePath="Video_test/55-2音量5声音大反馈.mp4" next="55-5"  select="" startTime="0:0:0" />
+<!--  做错详讲收尾+倒计时+第二节课第一个切片-->
+<video key="55-5" filePath="Video_test/55-5做题投屏3-做错反馈（详讲）后部分切片+发音量红包.mp4" next="0-3"  select="" startTime="0:0:0" />
+<video key="0-3" filePath="Video_test/海底8分钟倒计时25帧.mp4" next="032-1"  select="" startTime="0:0:0" />
+
+<!--  第二节课开始 -->
+<!--  课前秩序维护 -->
+<video key="032-1" filePath="Video_test/032-1【H】主视频20+课前秩序维护2.mp4" next="032-3,032-5-1" select="课前秩序维护" startTime="0:0:0" />
+<video key="032-3" filePath="Video_test/032-3【H】课前秩序维护2-中切片.mp4" next="032-2,032-5-3" select="课前秩序维护" startTime="0:0:0" />
+<video key="032-2" filePath="Video_test/032-2【H】课前秩序维护2-重切片.mp4" next="032-5-2" select="课前秩序维护" startTime="0:0:0" />
+<!--  032-5【H】主视频21+1v1扫描问答3 -->
+<video key="032-5-1" filePath="Video_test/032-5-1【H】主视频21+1v1扫描问答3.mp4" next="032-6" select="" startTime="0:0:0" />
+<video key="032-5-2" filePath="Video_test/032-5-2【H】主视频21+1v1扫描问答3.mp4" next="032-6" select="" startTime="0:0:0" />
+<video key="032-5-3" filePath="Video_test/032-5-3【H】主视频21+1v1扫描问答3.mp4" next="032-6" select="" startTime="0:0:0" />
+<video key="032-6" filePath="Video_test/032-6【H】主视频22+1v1扫描问答4.mp4" next="032-7" select="" startTime="0:0:0" />
+<video key="032-7" filePath="Video_test/032-7【H】主视频23+1v1扫描问答5.mp4" next="032-8" select="" startTime="0:0:0" />
+<video key="032-8" filePath="Video_test/032-8【H】主视频24+1v1扫描问答6.mp4" next="032-9" select="" startTime="0:0:0" />
+<!--  音量红包 -->
+<video key="032-9" filePath="Video_test/032-9【H】主视频25+音量红包6.mp4" next="032-11,032-12,032-10" select="音量红包" startTime="0:0:0" />
+<video key="032-10" filePath="Video_test/032-10【H】音量6声音大反馈.mp4" next="032-13" select="" startTime="0:0:0"/>
+<video key="032-11" filePath="Video_test/032-11【H】音量6声音小反馈.mp4" next="032-13"  select="" startTime="0:0:0"/>
+<video key="032-12" filePath="Video_test/032-12【H】音量6声音中反馈.mp4" next="032-13"  select="" startTime="0:0:0" />
+<!--  课中讲课+动画片 -->
+<video key="032-13" filePath="Video_test/032-13【H】主视频26+动画片2.mp4" next="00-3"  select="" startTime="0:0:0" />
+<!--  课中秩序维护+点学生名字 -->
+<video key="00-3" filePath="Video_test/动画2.mp4" next="0028"  select="" startTime="0:0:0" />
+<video key="0028" filePath="Video_test/0028【H】主视频27+花字倒计时.mp4" next="0-6"  select="" startTime="0:0:0" />
+<video key="0-6" filePath="Video_test/海底2分钟倒计时25帧.mp4" next="09-1_1,09-20_4"  select="" startTime="0:0:0" />
+<video key="09-1_1" filePath="Video_test/09-1_1【H】主视频27+课中秩序维护1（群体）.mp4" next="09-2_2,09-20_4"  select="" startTime="0:0:0" />
+<video key="09-2_2" type="videolist"  suffix=".mp4" filePath="Video_test/maintainorder1" next="09-20_4" select="" startTime="0:0:0"/>
+<!--  音量红包 -->
+<video key="09-20_4" filePath="Video_test/09-20_4【H】主视频28+音量红包7.mp4" next="09-22_5,09-23_5,09-21_5"  select="音量红包" startTime="0:0:0" />
+<video key="09-21_5" filePath="Video_test/09-21_5【H】 音量7声音大反馈切片.mp4" next="09-24_6" select="" startTime="0:0:0"/>
+<video key="09-22_5" filePath="Video_test/09-22_5 【H】音量7声音小反馈切片.mp4" next="09-24_6"  select="" startTime="0:0:0"/>
+<video key="09-23_5" filePath="Video_test/09-23_5 【H】音量7声音中反馈切片.mp4" next="09-24_6"  select="" startTime="0:0:0" />
+<!--  音量红包 -->
+<video key="09-24_6" filePath="Video_test/09-24_6 【H】主视频29+音量红包8.mp4" next="09-26_7,09-27_7,09-25_7"  select="音量红包" startTime="0:0:0" />
+<video key="09-25_7" filePath="Video_test/09-25_7【H】音量8声音大反馈切片.mp4" next="09-28_8" select="" startTime="0:0:0"/>
+<video key="09-26_7" filePath="Video_test/09-26_7【H】音量8声音小反馈切片.mp4" next="09-28_8"  select="" startTime="0:0:0"/>
+<video key="09-27_7" filePath="Video_test/09-27_7【H】音量8声音中反馈切片.mp4" next="09-28_8"  select="" startTime="0:0:0" />
+<!--  做题投屏&个人点评 稍后需要更改！！！！！！！！-->
+<video key="09-28_8" filePath="Video_test/09-28_8【H】主视频30+5分钟做题投屏5.mp4" next="10-36_4,10-36_4,10-5_3,10-4_3"  select="做题投屏" startTime="0:0:0" />
+<video key="10-4_3" type="videolist"  suffix=".mp4" filePath="Video_test/goodcomment" next="10-36_4" select="maintainOrderIn" startTime="0:0:5"/>
+<video key="10-5_3" type="videolist"  suffix=".mp4" filePath="Video_test/badcomment" next="10-36_4" select="maintainOrderIn" startTime="0:0:5"/>
+<!--  音量红包 -->
+<video key="10-36_4" filePath="Video_test/10-36_4【H】主视频+音量红包.mp4" next="10-38_5,10-39_5,10-37_5" select="yinliangdaxiao" startTime="0:0:0"/>
+<video key="10-37_5" filePath="Video_test/10-37_5【H】音量-声音大反馈切片.mp4" next="10-40_6" select="" startTime="0:0:0"/>
+<video key="10-38_5" filePath="Video_test/10-38_5【H】音量-声音小反馈切片.mp4" next="10-40_6" select="" startTime="0:0:0"/>
+<video key="10-39_5" filePath="Video_test/10-39_5【H】音量-声音中反馈切片.mp4" next="10-40_6" select="" startTime="0:0:0"/>
+<!--  讲课视频+课中红包 -->
+<video key="10-40_6" filePath="Video_test/10-40_6【H】主视频+课中红包.mp4" next="10-41_7" select="" startTime="0:0:0"/>
+<video key="10-41_7" filePath="Video_test/10-41_7【H】主视频.mp4" next="10-42_8,10-43_9" select="课中秩序维护" startTime="0:0:0"/>
+<video key="10-42_8" filePath="Video_test/10-42_8【H】课中秩序维护（重）.mp4" next="10-43_9" select="" startTime="0:0:0"/>
+<video key="10-43_9" filePath="Video_test/10-43_9【H】主视频+1分钟花字倒计时.mp4" next="040-1" select="" startTime="0:0:0"/>
+<video key="040-1" filePath="Video_test/040-1【H】主视频33+1v1扫描问答7.mp4" next="040-2" select="" startTime="0:0:0"/>
+<!--  做题投屏 -->
+<video key="040-2" filePath="Video_test/040-2【H】主视频34+5分钟做题投屏6（前一分钟不投屏，后四分钟投屏）.mp4" next="041-3,041-2" select="" startTime="0:0:0"/>
+<video key="041-2" filePath="Video_test/041-2【H】做题投屏6-做对切片.mp4" next="041-4" select="" startTime="0:0:0"/>
+<video key="041-3" filePath="Video_test/041-3【H】做题投屏6-做错切片.mp4" next="041-4" select="" startTime="0:0:0"/>
+<!--  音量红包 -->
+<video key="041-4" filePath="Video_test/041-4【H】主视频+音量红包10.mp4" next="041-6,041-7,041-5" select="" startTime="0:0:0"/>
+<video key="041-5" filePath="Video_test/041-5【H】音量10声音大反馈.mp4" next="041-8" select="" startTime="0:0:0"/>
+<video key="041-6" filePath="Video_test/041-6【H】音量10声音小反馈.mp4" next="041-8" select="" startTime="0:0:0"/>
+<video key="041-7" filePath="Video_test/041-7【H】音量10声音中反馈.mp4" next="041-8" select="" startTime="0:0:0"/>
+<video key="041-8" filePath="Video_test/041-8【H】主视频+音量红包11.mp4" next="041-10,041-11,041-9" select="" startTime="0:0:0"/>
+<video key="041-9" filePath="Video_test/041-9【H】音量11声音大反馈.mp4" next="041-12" select="" startTime="0:0:0"/>
+<video key="041-10" filePath="Video_test/041-10【H】音量11声音小反馈.mp4" next="041-12" select="" startTime="0:0:0"/>
+<video key="041-11" filePath="Video_test/041-11【H】音量11声音中反馈.mp4" next="041-12" select="" startTime="0:0:0"/>
+<video key="041-12" filePath="Video_test/041-12【H】主视频+发音量红包.mp4" next="0-5" select="" startTime="0:0:0"/>
+<!--  第二节课发完红包，下课 -->
+<video key="0-5" filePath="Video_test/海底8分钟倒计时25帧.mp4" next="026-1" select="" startTime="0:0:0"/>
+
+<!--  第三节课-->
+<!--  课前秩序维护-->
+<video key="026-1" filePath="Video_test/026-1主视频35+课前秩序维护3-轻..mp4" next="026-2,026-4-1" select="" startTime="0:0:0" />
+<video key="026-2" filePath="Video_test/026-2课前秩序维护3-中切片.mp4" next="026-3,026-4-2" select="" startTime="0:0:0" />
+<video key="026-3" filePath="Video_test/026-3课前秩序维护3-重切片.mp4" next="026-4-3" select="" startTime="0:0:0" />
+<!--  026-4主视频，后面是动画片3 -->
+<video key="026-4-1" filePath="Video_test/026-4-1主视频36+动画片3.mp4" next="00-4" select="" startTime="0:0:0"/>
+<video key="026-4-2" filePath="Video_test/026-4-2主视频36+动画片3.mp4" next="00-4" select="" startTime="0:0:0"/>
+<video key="026-4-3" filePath="Video_test/026-4-3主视频36+动画片3.mp4" next="00-4" select="" startTime="0:0:0"/>
+<video key="00-4" filePath="Video_test/动画3.mp4" next="027" select="" startTime="0:0:0"/>
+<!--  027主视频，后面有1个1v1点人-->
+<video key="027" filePath="Video_test/027主视频37+2分钟花字倒计时.mp4" next="028" select="" startTime="0:0:0"/>
+<video key="028" filePath="Video_test/028主视频38+1v1随机点人.mp4" next="029" select="1v1随机点人" startTime="0:0:0"/>
+<!--  029主视频，后面加一个做题投屏+031-2,031-3两个反馈切片-->
+<video key="029" filePath="Video_test/029主视频39+5分钟做题投屏7.mp4" next="031-2,031-3"  select="做题投屏" startTime="0:0:0"/>
+<video key="031-2" filePath="Video_test/031-2做题投屏7-做错评价切片.mp4" next="031-4"  select="" startTime="0:0:0" />
+<video key="031-3" filePath="Video_test/031-3做题投屏7-做对评价切片.mp4" next="031-4"  select="" startTime="0:0:0" />
+<!--  031-4主视频，后面+一个音量红包，反馈切片031-6，031-7，031-8 -->
+<video key="031-4" filePath="Video_test/031-4主视频41+音量红包13.mp4" next="031-6,031-7,031-5"  select="音量红包" startTime="0:0:0" />
+<video key="031-6" filePath="Video_test/031-6音量13声音小反馈切片.mp4" next="031-8"  select="" startTime="0:0:0" />
+<video key="031-7" filePath="Video_test/031-7音量13声音中反馈切片.mp4" next="031-8"  select="" startTime="0:0:0" />
+<video key="031-5" filePath="Video_test/031-5音量13声音大反馈切片.mp4" next="031-8"  select=""  startTime="0:0:0"/>
+<!--  031-8主视频，后面+课中红包 -->
+<video key="031-8" filePath="Video_test/031-8主视频42+课中红包.mp4" next="034-1,034-18"  select="yinliangdaxiao" startTime="0:0:0" />
+<!--  034-1主视频+课中秩序维护的个人点人切片 -->
+<video key="034-1" filePath="Video_test/034-1主视频43+课中秩序维护3（群体）.mp4" next="034-2,034-18"  select="课中秩序维护" startTime="0:0:0" />
+<video key="034-2" type="videolist"  suffix=".mp4" filePath="Video_test/maintainorder2" next="034-18" select="maintainOrderIn" startTime="0:0:5"/>
+
+<!--034-18主视频 -->
+<video key="034-18" filePath="Video_test/034-18主视频44+2分钟花字倒计时.mp4" next="42-1"  select="" startTime="0:0:0" />
+<!--  42-1主视频，后+答题器问答3个反馈-->
+<video key="42-1" filePath="Video_test/42-1【H】主视频45+答题器问答3.m4v" next="42-3,42-2,42-3"  select="答题器问答" startTime="0:0:0" />
+<video key="42-2" filePath="Video_test/42-2【H】答题器问答3-答对反馈切片.mp4" next="42-4"  select="" startTime="0:0:0" />
+<video key="42-3" filePath="Video_test/42-3【H】答题器问答3-答错反馈切片.mp4" next="42-4"  select="" startTime="0:0:0" />
+<!--  42-4主视频，后+音量红包三个反馈切片 -->
+<video key="42-4" filePath="Video_test/42-4【H】主视频46+音量红包14.mp4" next="42-6,42-7,42-5"  select="音量红包" startTime="0:0:0" />
+<video key="42-6" filePath="Video_test/42-6【H】音量14声音小反馈切片.mp4" next="42-8"  select="" startTime="0:0:0" />
+<video key="42-7" filePath="Video_test/42-7【H】音量14声音中反馈切片.mp4" next="42-8"  select="" startTime="0:0:0" />
+<video key="42-5" filePath="Video_test/42-5【H】音量14声音大反馈切片.mp4" next="42-8"  select="" startTime="0:0:0" />
+<!--  42-8主视频，+音量红包后跟三个反馈切片 -->
+<video key="42-8" filePath="Video_test/42-8【H】主视频47+音量红包15.mp4" next="42-10,42-11,42-9"  select="音量红包" startTime="0:0:0" />
+<video key="42-10" filePath="Video_test/42-10【H】音量18声音小反馈切片.mp4" next="42-12"  select="" startTime="0:0:0" />
+<video key="42-11" filePath="Video_test/42-11【H】音量18声音中反馈切片.mp4" next="42-12"  select="" startTime="0:0:0" />
+<video key="42-9" filePath="Video_test/42-9【H】音量18声音大反馈切片.mp4" next="42-12"  select="" startTime="0:0:0" />
+<!--  42-12主视频，后+做题投屏2个反馈-->
+<video key="42-12" filePath="Video_test/42-12【H】主视频48+5分钟做题投屏8.mp4" next="43-3,43-2"  select="" startTime="0:0:0" />
+<video key="43-2" filePath="Video_test/43-2【H】做题投屏8-做对反馈.mp4" next="43-4"  select="" startTime="0:0:0" />
+<video key="43-3" filePath="Video_test/43-3【H】做题投屏8-做错反馈.mp4" next="43-4"  select="" startTime="0:0:0" />
+<!--  43-4主视频 -->
+<video key="43-4" filePath="Video_test/43-4【H】主视频50+发音量红包.mp4" next=""  select="" startTime="0:0:0" />
+
+</videoList>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<course>
+<!--component id 主键，这个课件里唯一
+			  name 使用什么组件
+			  playTime 播放开始时间
+			  activeTime 播放多久后强行停止
+			  x 部分组件定义的起始坐标
+			  y 部分组件定义的起始坐标
+			  timeType 是触发该a组件使用绝对时间轴还是相对时间轴 relative/absolute/afterVideo
+			  videoID 在第几个视频播放前/后-->
+
+
+  <!--做题投屏-->
+  <component type="state" cid ='10101' name="zuotitouping" playTime="0:0:0" activeTime="0:5:00" x="100" y="100" timeType="afterVideo" videoID="34"/>
+  <component type="state" cid ='10102' name="zuotitouping" playTime="0:0:0" activeTime="0:5:00" x="100" y="100" timeType="afterVideo" videoID="40-12"/>
+  <component type="state" cid ='10103' name="zuotitouping" playTime="0:0:0" activeTime="0:5:00" x="100" y="100" timeType="afterVideo" videoID="52-2"/>
+  <component type="state" cid ='10104' name="zuotitouping" playTime="0:0:0" activeTime="0:5:00" x="100" y="100" timeType="afterVideo" videoID="09-28_8"/>
+  <component type="state" cid ='10105' name="zuotitouping" playTime="0:0:0" activeTime="0:4:00" x="100" y="100" timeType="afterVideo" videoID="040-2"/>
+  <component type="state" cid ='10106' name="zuotitouping" playTime="0:0:0" activeTime="0:5:00" x="100" y="100" timeType="afterVideo" videoID="029"/>
+  <component type="state" cid ='10107' name="zuotitouping" playTime="0:0:0" activeTime="0:4:00" x="100" y="100" timeType="afterVideo" videoID="42-12"/>
+
+  <!--课中红包-->
+  <component type="state" cid ='10201' name="grabRedPacketLucky" playTime="0:0:0" activeTime="0:0:10" x="100" y="100" timeType="afterVideo" videoID="44" addIn="5"/>
+  <component type="state" cid ='10202' name="grabRedPacketLucky" playTime="0:0:0" activeTime="0:0:10" x="100" y="100" timeType="afterVideo" videoID="42" addIn="5"/>
+  <component type="state" cid ='10203' name="grabRedPacketLucky" playTime="0:0:0" activeTime="0:0:10" x="100" y="100" timeType="afterVideo" videoID="10-40_6" addIn="5"/>
+  <component type="state" cid ='10204' name="grabRedPacketLucky" playTime="0:0:0" activeTime="0:0:10" x="100" y="100" timeType="afterVideo" videoID="031-8" addIn="5"/>
+
+  <!--1v1无扫描 playtime表示视频1在哪个时间触发1v1，activetime表示视频3在前多少秒暂停-->
+  <component type="state" cid ='10301' name="onetoonerandom" playTime="0:00:10" activeTime="0:0:1:800" x="100" y="100" timeType="relative" videoID="23-1"/>
+
+  <!--1v1问答playtime是触发1v1的时间-->
+  <component type="state" cid ='10302' name="onetoone" playTime="0:0:30:534" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="51"/>
+  <component type="state" cid ='10303' name="onetoone" playTime="0:0:21:392" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="52-1"/>
+  <component type="state" cid ='10304' name="onetoone" playTime="0:0:48:518" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="032-5-1"/>
+  <component type="state" cid ='10311' name="onetoone" playTime="0:0:48:518" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="032-5-2"/>
+  <component type="state" cid ='10310' name="onetoone" playTime="0:0:48:518" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="032-5-3"/>
+  <component type="state" cid ='10305' name="onetoone" playTime="0:0:10:000" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="032-6"/>
+  <component type="state" cid ='10306' name="onetoone" playTime="0:0:07:745" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="032-7"/>
+  <component type="state" cid ='10307' name="onetoone" playTime="0:0:07:978" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="032-8"/>
+  <component type="state" cid ='10308' name="onetoone" playTime="0:1:51:000" activeTime="0:0:0" x="100" y="100" timeType="relative" videoID="040-1"/>
+
+  <!--1v1问答强行随机-->
+  <component type="state" cid ='10309' name="onetoone" playTime="0:0:57" activeTime="0:22:33" x="100" y="100" timeType="relative" videoID="028" addIn="random"/>
+
+  <!--虚拟老师点评-->
+  <component type="state" cid ='10800' name="zhenshilaoshidianping" playTime="0:0:0" activeTime="0:0:50" x="100" y="100" timeType="afterComponent"  videoID="" addIn="10101" difficultyType="0" headerTime="0:0:12"/>
+  <component type="state" cid ='10801' name="zhenshilaoshidianping" playTime="0:0:0" activeTime="0:0:50" x="100" y="100" timeType="afterComponent"  videoID="" addIn="10102" difficultyType="0" headerTime="0:0:12"/>
+  <component type="state" cid ='10802' name="zhenshilaoshidianping" playTime="0:0:0" activeTime="0:0:50" x="100" y="100" timeType="afterComponent"  videoID="" addIn="10103" difficultyType="1" headerTime="0:0:12"/>
+  <component type="state" cid ='10803' name="zhenshilaoshidianping" playTime="0:0:0" activeTime="0:0:50" x="100" y="100" timeType="afterComponent"  videoID="" addIn="10104" difficultyType="1" headerTime="0:0:12"/>
+  <component type="state" cid ='10804' name="zhenshilaoshidianping" playTime="0:0:0" activeTime="0:0:50" x="100" y="100" timeType="afterComponent"  videoID="" addIn="10105" difficultyType="1" headerTime="0:0:12"/>
+  <component type="state" cid ='10805' name="zhenshilaoshidianping" playTime="0:0:0" activeTime="0:0:50" x="100" y="100" timeType="afterComponent"  videoID="" addIn="10106" difficultyType="0" headerTime="0:0:12"/>
+  <component type="state" cid ='10806' name="zhenshilaoshidianping" playTime="0:0:0" activeTime="0:0:50" x="100" y="100" timeType="afterComponent"  videoID="" addIn="10107" difficultyType="1" headerTime="0:0:12"/>
+  
+
+  <!--群体问答-->
+  <component type="state" cid ='10401' name="quntiwenda" playTime="0:0:20:100" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="27-5-2"/>
+  <component type="state" cid ='10450' name="quntiwenda" playTime="0:0:18:600" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="27-5-3"/>
+  <component type="state" cid ='10451' name="quntiwenda" playTime="0:0:19:100" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="27-5-4"/>
+  <component type="state" cid ='10402' name="quntiwenda" playTime="0:0:33:200" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="40-4"/>
+  <component type="state" cid ='10403' name="quntiwenda" playTime="0:1:38:600" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="40-8"/>
+  <component type="state" cid ='10404' name="quntiwenda" playTime="0:0:53:900" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="55-1"/>
+  <component type="state" cid ='10405' name="quntiwenda" playTime="0:0:22:600" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="032-9"/>
+  <component type="state" cid ='10406' name="quntiwenda" playTime="0:0:30:000" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="09-20_4"/>
+  <component type="state" cid ='10407' name="quntiwenda" playTime="0:0:36:700" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="09-24_6"/>
+  <component type="state" cid ='10408' name="quntiwenda" playTime="0:1:15:500" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="10-36_4"/>
+  <component type="state" cid ='10409' name="quntiwenda" playTime="0:0:25:500" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="041-4"/>
+  <component type="state" cid ='10410' name="quntiwenda" playTime="0:0:29:900" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="041-8"/>
+  <component type="state" cid ='10411' name="quntiwenda" playTime="0:1:13:500" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="031-4"/>
+  <component type="state" cid ='10412' name="quntiwenda" playTime="0:1:44:500" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="42-4"/>
+  <component type="state" cid ='10413' name="quntiwenda" playTime="0:0:20:000" activeTime="0:0:10" x="100" y="100" timeType="relative"  videoID="42-8"/>
+
+  <!--答题器-->
+  <component type="state" cid ='10701' name="datiqi" playTime="0:0:12:800" activeTime="0:0:5" x="100" y="100" timeType="relative" videoID="30-1" addIn="11000"/>
+  <component type="state" cid ='10702' name="datiqi" playTime="0:0:9:000" activeTime="0:0:5" x="100" y="100" timeType="relative" videoID="31-1" addIn="11001"/>
+  <component type="state" cid ='10703' name="datiqi" playTime="0:1:55:000" activeTime="0:0:5" x="100" y="100" timeType="relative" videoID="42-1" addIn="11002"/>
+
+  <!--音量红包发放-->
+  <component type="state" cid ='10414' name="grabRedPacketNormal" playTime="0:0:10" activeTime="0:0:30" timeType="afterVideo" videoID="53"/>
+  <component type="state" cid ='10415' name="grabRedPacketNormal" playTime="0:0:10" activeTime="0:0:30" timeType="afterVideo" videoID="55-5"/>
+  <component type="state" cid ='10416' name="grabRedPacketNormal" playTime="0:0:10" activeTime="0:0:30" timeType="afterVideo" videoID="041-12"/>
+  <component type="state" cid ='10417' name="grabRedPacketNormal" playTime="0:0:10" activeTime="0:0:30" timeType="afterVideo" videoID="43-4"/>
+
+  
+  <!--课前秩序维护-->
+  <component type="state" cid ='10500' name="maintainorderbefore" playTime="0:0:06:300" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="27-4"/>
+  <component type="state" cid ='10501' name="maintainorderbefore" playTime="0:0:06:100" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="032-1"/>
+  <component type="state" cid ='10502' name="maintainorderbefore" playTime="0:0:03:200" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="026-1"/>
+
+  <!--课中秩序维护-->
+  <component type="state" cid ='10600' name="maintainorderin" playTime="0:1:50" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="0-6"/>
+  <component type="state" cid ='10601' name="maintainorderin" playTime="0:0:3" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="10-41_7"/>
+  <component type="state" cid ='10602' name="maintainorderin" playTime="0:01:00" activeTime="0:0:50" x="100" y="100" timeType="relative" videoID="031-8"/>
+
+
+</course>
