@@ -8,8 +8,8 @@ class PXMap {
         console.log("3")
         console.log(this.slot.id);
     }
-    addVideo(id, next) {
-        let slot = new Slot(id, next,"video");
+    addVideo(id, next,flag) {
+        let slot = new Slot(id, next,"video",null,flag);
         this.PXMap.push(slot);
     }
     addComp(id,start,next) {
@@ -29,7 +29,7 @@ class PXMap {
         this.PXMap.push(slot);
     }
     show() {
-        console.log(this.PXMap, "this.PXmap")
+        console.log((this.PXMap), "this.PXmap")
     }
     find(id){
         let finded; 
@@ -41,25 +41,61 @@ class PXMap {
         })
         return finded;
     }
+    relate() {
+        this.PXMap.forEach((slot) => {
+            if (slot.type === "video") {
+                // this.
+                this.xmlreader.VideoArray.forEach((video) => {
+                    if (video.id === slot.id) {
+                        slot.content = video
+                        // if (video.flag === flag) {
+                        //     slot.flag = "first";
+                        // }
+                    }
+
+                })
+
+                console.log("d")
+            }
+            if (slot.type === "comp") {
+                this.xmlreader.ComponentArry.forEach((comp) => {
+                    if (comp.id === slot.id) {
+                        slot.content = comp
+                    }
+
+                })
+            }
+        })
+
+    }
+    readXml() {
+        this.xmlreader = new xmlReader();
+        this.xmlreader.readVideo()
+        setTimeout(() =>{
+            console.log(this.xmlreader.ComponentArry, this.xmlreader.VideoArray)
+            this.xmlreader.VideoArray.forEach((value)=>{
+                this.addVideo(value.id,value.next,value.flag); 
+            })
+            this.xmlreader.readComponent(this)
+            this.xmlreader.ComponentArry.forEach((value) => {
+        
+            })
+            setTimeout(() => {
+               this.relate();
+               this.show();
+        
+            },1000)
+        
+        }, 1000)
+
+    }
+
 }
 
 let pxmap = new PXMap()
-let Slot1 = new Slot("1");
-let Slot2 = new Slot("2");
-pxmap.insert(Slot1);
-pxmap.insert(Slot2, "1");
+pxmap.readXml()
+// let Slot1 = new Slot("1");
+// let Slot2 = new Slot("2");
+// pxmap.insert(Slot1);
+// pxmap.insert(Slot2, "1");
 console.log(pxmap)
-let xmlreader = new xmlReader();
-xmlreader.readVideo()
-setTimeout(() =>{
-    console.log(xmlreader.ComponentArry, xmlreader.VideoArray)
-    xmlreader.VideoArray.forEach((value)=>{
-        pxmap.addVideo(value.id,value.next); 
-    })
-    xmlreader.readComponent(pxmap)
-    xmlreader.ComponentArry.forEach((value) => {
-
-    })
-    pxmap.show();
-
-}, 1000)

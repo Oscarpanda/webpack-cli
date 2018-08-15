@@ -18,10 +18,13 @@ class xmlReader {
                 videoarry.each((index, value) => {
                     let id = $(value).attr("key");
                     let next = $(value).attr("next");
-                    let singleVideoSlot = new videoSlot(id,next);
+                    let flag = $(value).attr("flag");
+                    console.log(flag);
+                    let singleVideoSlot = new videoSlot(id,next,flag);
                     this.VideoArray.push(singleVideoSlot);
                     
                 })
+                console.log(this.VideoArray)
         
             }
         })
