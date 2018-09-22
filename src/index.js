@@ -35,6 +35,9 @@ function numberCreator() {
 
 // 选择排序
 
+
+let arrquick = numberCreator();
+console.log(quickFun_right(arrquick, 0, arrquick.length - 1));
 function select(x, observer) {
     let arr = x[0];
     let timer = x[1].timer;
@@ -47,6 +50,77 @@ function select(x, observer) {
                 index = j;
             }
             
+        }
+        let temp = arr[i];
+        arr[i] = min;
+        arr[index] = temp;
+        let temparr = arr.slice(0, arr.length-1);
+        let obj = {};
+        obj.temparr = temparr;
+        timer++;
+        obj.timer = timer
+
+        observer.next(obj);
+    }
+}
+function quickFun (arr) {
+    if (arr.length <= 1) {
+        return arr;
+    }
+    let first = arr.shift();
+    let smaller = [];
+    let biger = [];
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] < first) {
+            smaller.push(arr[i]);
+        } else {
+            biger.push(arr[i]);
+        }
+        
+    }
+    console.log(smaller, biger);
+    return quickFun(smaller).concat(first, quickFun(biger));
+}
+
+function swap (arr, i ,j) {
+    let temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+    return arr;
+}
+function getposition(arr,f,e) {
+    let x = arr[e];
+    let i = f - 1;
+    for (let j = f;j<e-1;j++) {
+        if (arr[j] < x) {
+            i += 1;
+            swap(arr, i, j);
+        }
+    }
+    swap(arr, i+1, e);
+    return i+1;
+}
+function quickFun_right(arr,f,e) {
+    if (e <= f) return;
+    // if (f < e) {
+        let q = getposition(arr, f, e);
+        quickFun_right(arr, f, q-1);
+        quickFun_right(arr, q+1, e);
+        return arr;
+    // }
+ 
+}
+function quick (x, observer) {
+    let arr = x[0];
+    let timer = x[1].timer;
+    for (let i = 0 ; i < arr.length; i++ ){
+        let index = i;
+        let min = arr[index]
+        for (let j = i; j< arr.length;j++){
+            if ( min > arr[j]){
+                min = arr[j];
+                index = j;
+            }
         }
         let temp = arr[i];
         arr[i] = min;
