@@ -60,37 +60,6 @@ function quickFun (arr) {
     return quickFun(smaller).concat(first, quickFun(biger));
 }
 
-function swap (arr, i ,j) {
-    let temp = arr[i];
-    arr[i] = arr[j];
-    arr[j] = temp;
-    return arr;
-}
-function getposition(arr,f,e) {
-    let x = arr[e];
-    let i = f - 1;
-    for (let j = f;j<e-1;j++) {
-        if (arr[j] < x) {
-            i += 1;
-            swap(arr, i, j);
-        }
-    }
-    swap(arr, i+1, e);
-    return i+1;
-}
-function quickFun_right(x,f,e, observer) {
-    let arr = x[0]
-    if (e <= f) return;
-    // if (f < e) {
-    let q = getposition(arr, f, e);
-    quickFun_right(x, f, q-1, observer);
-    quickFun_right(x, q+1, e, observer);
-    x[1]++;
-    observer.next(x)
-    return x;
-    // }
- 
-}
 function quick (x, observer) {
     let arr = x[0];
     let timer = x[1].timer;
@@ -137,9 +106,10 @@ Rx.Observable.prototype.sort = function () {
     const input = this;
     return Rx.Observable.create((observer) => {
         input.subscribe((arr)=> {
-            const num = arr[0];
+            const num = JSON.parse(JSON.stringify(arr[0]));
             const select = arr[1];
             const sortFun = funMap[select.type];
+            
             sortFun(num, (arr) => {
                 observer.next({
                     nums: JSON.parse(JSON.stringify(arr)),
@@ -166,12 +136,15 @@ const combine$ = Rx.Observable.combineLatest(createNumber$, select$)
     .sort()
 // var te1 = combine$
     .flatMap(x=>{
-        console.log(x.nums)
-        return Rx.Observable.of(x).delay(100 * x.select.timer++);
+        // console.log(x.nums)
+        return Rx.Observable.of(x).delay(50 * x.select.timer++);
         // return Rx.Observable.create((observer) => {
         
             // select(x, observer);
         // });
+    })
+    .filter((x) => {
+        return x.select.type === currentType
     })
     .do((x) => {
         option.series[0].data = x.nums;
